@@ -1,0 +1,9 @@
+{
+	"extends": "@arcmantle/tsconfig",
+	"compilerOptions": {
+		"outDir": "../dist",
+		"rootDir": ".",
+		"baseUrl": ".",
+		"checkJs": true,
+	},
+}
